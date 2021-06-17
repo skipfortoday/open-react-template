@@ -132,7 +132,7 @@ const FeaturesSplit = ({
                 </div>
                 <h3 className="mt-0 mb-12">Guest</h3>
                 <p className="m-0">
-                  orang yang belum daftar bisa melihat acara atau event apa saja
+                  Orang yang belum daftar bisa melihat acara atau event apa saja
                   yang akan diselenggarakan dalam waktu dekat.
                 </p>
               </div>

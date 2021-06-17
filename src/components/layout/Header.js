@@ -112,10 +112,7 @@ const Header = ({
                     )}
                   >
                     <li>
-                      <Link
-                        to="https://rizqipratamar.vercel.app/"
-                        onClick={closeMenu}
-                      >
+                      <Link to="#" onClick={closeMenu}>
                         Login
                       </Link>
                     </li>
@@ -124,7 +121,7 @@ const Header = ({
                     <ul className="list-reset header-nav-right">
                       <li>
                         <Link
-                          to="https://rizqipratamar.vercel.app/"
+                          to="#"
                           className="button button-primary button-wide-mobile button-sm"
                           onClick={closeMenu}
                         >
