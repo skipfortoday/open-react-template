@@ -46,7 +46,7 @@ const Cta = ({
       <div className="container">
         <div className={innerClasses}>
           <div className="cta-slogan">
-            <h3 className="m-0">Mau mendapatkan info terbaru DapatSponsor?</h3>
+            <h3 className="m-0">Berlangganan DapatSponsor ?</h3>
           </div>
           <div className="cta-action">
             <Input
