@@ -80,7 +80,7 @@ const Hero = ({
                     wideMobile
                     href="https://rizqipratamar.vercel.app/"
                   >
-                    Get started
+                    Daftar
                   </Button>
                   <Button
                     tag="a"
@@ -88,7 +88,7 @@ const Hero = ({
                     wideMobile
                     href="https://rizqipratamar.vercel.app/"
                   >
-                    Comming Soon
+                    Login
                   </Button>
                 </ButtonGroup>
               </div>
@@ -107,7 +107,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require("./../../assets/images/video-placeholder.jpg")}
+                src={require("./../../assets/images/Screenshot_2.jpg")}
                 alt="Hero"
                 width={896}
                 height={504}
